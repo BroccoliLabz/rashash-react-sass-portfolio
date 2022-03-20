@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@700&family=Press+Start+2P&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Aref Ruqaa', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: 2px 2px 8px;
+  font-size: 5vmin;
+}
+
+h1{
+  user-select: none;
+}
+
+h1,
+a {
+  font-family: 'Press Start 2P', cursive;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  transition: all 0.3s ease-in-out;
+  animation: float 8s alternate infinite;
+  &:hover{
+    text-shadow: 2px 2px 20px;
+  }
+}
+
+
