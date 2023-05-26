@@ -111,7 +111,7 @@ function App() {
       </div>
       <div className='links fade'>
         <a
-          href='https://www.instagram.com/muhanna_4/'
+          href='https://www.instagram.com/m4_jeddah/'
           target='_blank'
           rel='noreferrer'
         >
